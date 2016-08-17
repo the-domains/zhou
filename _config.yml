@@ -10,6 +10,9 @@ color:
     - '#AFB7C4'
     - '#E8E8F0'
     - '#171916'
+opengraph:
+  type: Canvas
+  appId: '164522570641544'
 layout_spectrum: 0.8749073774088174
 author:
   name: Allan
