@@ -1,16 +1,16 @@
-typography_spectrum: 0.6942190635018051
+typography_spectrum: 0.5041110988240689
 color:
-  brandStrength: 0.726579727139324
-  lightness: 0.38797167781740427
-  saturation: 0.2984629806596786
-  rhythmicContrast: 0.37504905951209366
+  brandStrength: 0.24689230602234602
+  lightness: 0.5150310869794339
+  saturation: 0.057151706190779805
+  rhythmicContrast: 0.4510001966264099
   brandColors:
-    - '#FFFFFF'
-    - '#CCCCCC'
-    - '#999999'
-    - '#4D4D4D'
-    - '#333333'
-layout_spectrum: 0.1837902911938727
+    - '#3C6AA5'
+    - '#8A97AA'
+    - '#AFB7C4'
+    - '#E8E8F0'
+    - '#171916'
+layout_spectrum: 0.8749073774088174
 author:
   name: Allan
   email: allangchau@gmail.com
