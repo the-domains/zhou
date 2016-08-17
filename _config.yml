@@ -1,3 +1,4 @@
+layout_spectrum: 0.5143194142729044
 typography_spectrum: 0.224575474858284
 color:
   brandStrength: 0.023192904889583588
@@ -10,8 +11,4 @@ color:
     - '#FFFCE8'
     - '#3E363F'
     - '#DD403A'
-layout_spectrum: 0.5143194142729044
-author:
-  name: Allan
-  email: allangchau@gmail.com
 name: Zhou
