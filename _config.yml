@@ -14,6 +14,8 @@ opengraph:
   type: ''
   appId: ''
 layout_spectrum: 0.8749073774088174
+analytics:
+  google: UA-82773607-1
 author:
   name: Allan
   email: allangchau@gmail.com
